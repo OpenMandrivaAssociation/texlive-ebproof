@@ -1,6 +1,6 @@
 Name:		texlive-ebproof
 Version:	57544
-Release:	1
+Release:	2
 Summary:	Formal proofs in the style of sequent calculus
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ebproof
