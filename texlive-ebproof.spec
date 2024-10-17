@@ -3,7 +3,7 @@ Version:	57544
 Release:	2
 Summary:	Formal proofs in the style of sequent calculus
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ebproof
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ebproof
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ebproof.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ebproof.doc.r%{version}.tar.xz
